@@ -1,0 +1,4 @@
+potal	미지정	P	P	
+potal	미지정	T	T	
+company	미지정	U	U	
+company	미지정	J	J	
